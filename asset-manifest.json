@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.4eca9e22.css",
-    "main.js": "/static/js/main.11b7161e.js",
-    "static/js/787.446a2371.chunk.js": "/static/js/787.446a2371.chunk.js",
+    "main.css": "/static/css/main.bdee409a.css",
+    "main.js": "/static/js/main.792ffa49.js",
+    "static/js/453.0752497c.chunk.js": "/static/js/453.0752497c.chunk.js",
+    "static/media/BOBBY_BACK.png": "/static/media/BOBBY_BACK.74fff4319e4172de265b.png",
+    "static/media/BOBBY_FRONT.png": "/static/media/BOBBY_FRONT.bf90bb02d19ea7c87d57.png",
     "static/media/BOBBYLOGO_SVG.png": "/static/media/BOBBYLOGO_SVG.d23301384ce390afa292.png",
     "index.html": "/index.html",
-    "main.4eca9e22.css.map": "/static/css/main.4eca9e22.css.map",
-    "main.11b7161e.js.map": "/static/js/main.11b7161e.js.map",
-    "787.446a2371.chunk.js.map": "/static/js/787.446a2371.chunk.js.map"
+    "main.bdee409a.css.map": "/static/css/main.bdee409a.css.map",
+    "main.792ffa49.js.map": "/static/js/main.792ffa49.js.map",
+    "453.0752497c.chunk.js.map": "/static/js/453.0752497c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4eca9e22.css",
-    "static/js/main.11b7161e.js"
+    "static/css/main.bdee409a.css",
+    "static/js/main.792ffa49.js"
   ]
 }

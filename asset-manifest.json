@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4eca9e22.css",
+    "main.js": "/static/js/main.11b7161e.js",
+    "static/js/787.446a2371.chunk.js": "/static/js/787.446a2371.chunk.js",
+    "static/media/BOBBYLOGO_SVG.png": "/static/media/BOBBYLOGO_SVG.d23301384ce390afa292.png",
+    "index.html": "/index.html",
+    "main.4eca9e22.css.map": "/static/css/main.4eca9e22.css.map",
+    "main.11b7161e.js.map": "/static/js/main.11b7161e.js.map",
+    "787.446a2371.chunk.js.map": "/static/js/787.446a2371.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4eca9e22.css",
+    "static/js/main.11b7161e.js"
+  ]
+}

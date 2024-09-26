@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'round-digitalio';
+    font-style: normal;
+   
+    src: local('round-digitalio'), url('./assets/font/round-digitalio.ttf') format('ttf');
+  }

@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.92846518.css",
-    "main.js": "/static/js/main.1227bfb5.js",
+    "main.css": "/static/css/main.6efde5d0.css",
+    "main.js": "/static/js/main.6198212b.js",
     "static/js/453.0752497c.chunk.js": "/static/js/453.0752497c.chunk.js",
     "static/media/BadgeImg2.gif": "/static/media/BadgeImg2.8f5173ac14bf498ddf48.gif",
     "static/media/BadgeImg3.gif": "/static/media/BadgeImg3.5bffed4e6ff22b25f0bc.gif",
@@ -13,12 +13,12 @@
     "static/media/BOBBY_FRONT2.png": "/static/media/BOBBY_FRONT2.d5c54cb35c76f2baf12d.png",
     "static/media/BOBBYLOGO_SVG.png": "/static/media/BOBBYLOGO_SVG.d23301384ce390afa292.png",
     "index.html": "/index.html",
-    "main.92846518.css.map": "/static/css/main.92846518.css.map",
-    "main.1227bfb5.js.map": "/static/js/main.1227bfb5.js.map",
+    "main.6efde5d0.css.map": "/static/css/main.6efde5d0.css.map",
+    "main.6198212b.js.map": "/static/js/main.6198212b.js.map",
     "453.0752497c.chunk.js.map": "/static/js/453.0752497c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.92846518.css",
-    "static/js/main.1227bfb5.js"
+    "static/css/main.6efde5d0.css",
+    "static/js/main.6198212b.js"
   ]
 }
